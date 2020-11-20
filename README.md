@@ -1,10 +1,10 @@
-# UIB_FRamework_SCSS_Exercise-2
+# UIB_Framework_SCSS_Exercise-2
 
 > Let's use Bootstrap and SCSS to create a restaurant page!
 > This exercise focuses mainly importing files, variables, @mixin, and @extend topics.
 > font family for heading: https://fonts.google.com/specimen/Love+Ya+Like+A+Sister
 
-Create a mockup website as seen in [this reference](https://hsnakk.github.io/UIB_FRamework_SCSS_Exercise-2/)
+Create a mockup website as seen in [this reference](https://hsnakk.github.io/UIB_Framework_SCSS_Exercise-2/)
 
 ## Desktop:
 
